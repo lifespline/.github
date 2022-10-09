@@ -23,6 +23,19 @@ Testimonies
 
 .. code-block:: text
 
-   The platfowm is simply put beautiful. From the moment I login I feel I'm in a safe environment where I can focus and be productive. It has improved not only my coding, but my career and my life.
+   The platfowm is simply put beautiful. From the moment I login I feel I'm in a safe environment
+   where I can focus and be productive. It has improved not only my coding but my career.
    
-   Lead Developer, Stripe
+Lead Developer, Stripe
+
+.. code-block:: text
+
+   rctek makes coding a mesmerizing experience. I never knew I could be this productive.
+   
+Cloud Engineer, Spotify
+
+.. code-block:: text
+
+   The visualizations are out of this world. Data really comes to life. No bullshit.
+   
+Software Engineer, Thoughworks
