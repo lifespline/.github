@@ -10,7 +10,7 @@ Believing that the quality of a software solution is a function of the quality o
 History
 -------
 
-Artek was born from the merging of many different passions into one: art, architecture, design, software engineering, excelling. The merging coincided with a draft of a ``FaaS`` for ``DX``.
+Artek was born from the merging of many different passions into one: art, architecture, design, software engineering, excelling. The merging coincided with a draft of a ``FaaS`` for ``DX``. This draft led to a platform developers can use to help them focus on their work.
 
 
 Customers
