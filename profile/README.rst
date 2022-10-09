@@ -1,8 +1,11 @@
-==========
-Lifespline
-==========
+=====
+rctek
+=====
 
-``lifespline`` is a framework to guide a developers life into excellence. Quickstarts:
+Intro
+-----
 
-* `Agile Manifesto <https://lifespline.github.io/agile/>`_
-* `reST <https://lifespline.github.io/samples-sphinx/>`_
+We provide a **FaaS** for **dx**, making the quality of a software solution a function of the quality of the developer experience.
+
+History
+-------
