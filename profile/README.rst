@@ -17,3 +17,12 @@ Customers
 ---------
 
 Our customers are people or entities that aim to be leaders in the solution they're delivering.
+
+Testimonies
+-----------
+
+.. code-block:: text
+
+   The platfowm is simply put beautiful. From the moment I login I feel I'm in a safe environment where I can focus and be productive. It has improved not only my coding, but my career and my life.
+   
+   Lead Developer, Stripe
