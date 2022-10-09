@@ -39,3 +39,11 @@ Cloud Engineer, Spotify
    The visualizations are out of this world. Data really comes to life. No bullshit.
    
 Software Engineer, Thoughworks
+
+.. code-block:: text
+
+   It had never occurred to me that every single little thing I learn could be turned into an exercise 
+   that I could practice in isolation time and time again, such that it would become eventually a lesson
+   learnt. No more googling forever how to read a json in python.
+   
+Software Engineer, Unity
