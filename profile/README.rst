@@ -5,7 +5,7 @@ Artek
 Intro
 -----
 
-Modestly a framework-as-a-service ``FaaS`` for developer experience ``DX``, Artek enables the software engineer to become the ultra version of itself enabling the development of brilliant software solutions - and of everything else.
+Modestly a framework-as-a-service ``FaaS`` for developer experience ``DX``, Artek enables the software engineer to become the ultra version of itself enabling the development of brilliant software solutions - and of anything else.
 
 History
 -------
