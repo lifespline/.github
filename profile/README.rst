@@ -5,7 +5,7 @@ Artek
 Intro
 -----
 
-Believing that the quality of a software solution is a function of the quality of the developer experience, Artek is committed to delivering a ``FaaS`` for ``DX``.
+Modestly a framework-as-a-service ``FaaS`` for developer experience ``DX``, Artek enables the software engineer to become the ultra version of itself enabling the development of brilliant software solutions - and of everything else.
 
 History
 -------
